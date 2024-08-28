@@ -602,7 +602,7 @@ I've significantly enhanced my SQL skills during this journey:
 
 - **Optimal Skills for Job Market Value** SQL leads in demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
 
-### Encerramento | Closing Thoughts
+# Encerramento | Closing Thoughts
 **PT-BR:** Este projeto aprimorou minhas habilidades em SQL e forneceu insights valiosos sobre o mercado de trabalho para analistas de dados. Os resultados da análise servem como um guia para priorizar o desenvolvimento de habilidades e os esforços de busca por emprego. Aspirantes a analistas de dados podem se posicionar melhor em um mercado de trabalho competitivo ao se concentrar em habilidades com alta demanda e alto salário. Essa exploração destaca a importância da aprendizagem contínua e da adaptação às tendências emergentes no campo da análise de dados.
 
 ---
