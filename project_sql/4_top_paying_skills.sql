@@ -24,7 +24,6 @@ ORDER BY
     avg_salary DESC
 LIMIT 25
 
-
 /*
 Analisando a consulta SQL que agregou os dados salariais médios de vagas para "Data Analyst" com base nas skills necessárias, podemos extrair alguns insights valiosos:
 
